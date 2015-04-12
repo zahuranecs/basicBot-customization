@@ -98,7 +98,7 @@
         etaRestriction: false,
         welcome: true,
         opLink: null,
-        rulesLink: "1. No screamo/growl /r2. Please use common sense",
+        rulesLink: "1. No screamo/growl Please use common sense",
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
