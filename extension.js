@@ -98,7 +98,7 @@
         etaRestriction: false,
         welcome: true,
         opLink: null,
-        rulesLink: "1. No screamo/growl Please use common sense",
+        rulesLink: null,
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
@@ -106,7 +106,7 @@
         intervalMessages: [],
         messageInterval: 5,
         songstats: true,
-        commandLiteral: "+",
+        commandLiteral: "!",
         blacklists: {
             NSFW: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
             OP: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/ExampleOPlist.json"
