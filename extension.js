@@ -1,6 +1,6 @@
 (function () {
     //Link location of your fork so you don't have to modify so many things.
-    var fork = "Yemasthui";
+    var fork = "Zahuranecs";
 		
     //Define our function responsible for extending the bot.
     function extend() {
@@ -55,7 +55,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
+        botName: "GLaDOS",
         language: "english",
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
@@ -75,7 +75,7 @@
         voteSkip: false,
         voteSkipLimit: 10,
         timeGuard: true,
-        maximumSongLength: 10,
+        maximumSongLength: 8,
         autodisable: true,
         commandCooldown: 30,
         usercommandsEnabled: true,
@@ -93,7 +93,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: false,
         motdInterval: 5,
-        motd: "Temporary Message of the Day",
+        motd: "Welcome to Rock the Dubstep! Please enjoy your stay!",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
@@ -106,7 +106,7 @@
         intervalMessages: [],
         messageInterval: 5,
         songstats: true,
-        commandLiteral: "!",
+        commandLiteral: "/",
         blacklists: {
             NSFW: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
             OP: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/ExampleOPlist.json"
