@@ -98,7 +98,7 @@
         etaRestriction: false,
         welcome: true,
         opLink: null,
-        rulesLink: "1. Please suit the current genre when playing/r2.We can tolerate the occasional meh, but if you meh too much, you shouldn't be here/r3.Please use common sense/r4.Please respect staff",
+        rulesLink: ["1. Please suit the current genre when playing/r2.We can tolerate the occasional meh, but if you meh too much, you shouldn't be here/r3.Please use common sense/r4.Please respect staff"],
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
