@@ -106,7 +106,7 @@
         intervalMessages: [],
         messageInterval: 5,
         songstats: true,
-        commandLiteral: "!",
+        commandLiteral: "+",
         blacklists: {
             NSFW: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
             OP: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/ExampleOPlist.json"
