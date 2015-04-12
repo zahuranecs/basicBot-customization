@@ -106,7 +106,7 @@
         intervalMessages: ["Be sure to leave a woot for your fellow DJs","Please let us know if we are doing a good job!"],
         messageInterval: 10,
         songstats: true,
-        commandLiteral: "+",
+        commandLiteral: "!",
         blacklists: {
             NSFW: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
             OP: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/ExampleOPlist.json"
