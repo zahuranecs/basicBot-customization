@@ -91,7 +91,7 @@
         ],
         afkpositionCheck: 15,
         afkRankCheck: "bouncer",
-        motdEnabled: false,
+        motdEnabled: true,
         motdInterval: 5,
         motd: "Please keep your songs to the current theme, which is: FREESTYLE WEEKEND",
         filterChat: true,
