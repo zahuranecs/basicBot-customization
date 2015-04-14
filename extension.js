@@ -91,7 +91,7 @@
         ],
         afkpositionCheck: 15,
         afkRankCheck: "bouncer",
-        motdEnabled: true,
+        motdEnabled: false,
         motdInterval: 5,
         motd: "Please keep your songs to the current theme, which is: METAL MONDAY",
         filterChat: true,
