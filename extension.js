@@ -91,7 +91,7 @@
         ],
         afkpositionCheck: 15,
         afkRankCheck: "bouncer",
-        motdEnabled: true,
+        motdEnabled: false,
         motdInterval: 5,
         motd: "Please stick to the theme, which is: THROWBACK THURSDAY",
         filterChat: true,
